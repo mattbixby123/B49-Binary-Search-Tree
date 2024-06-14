@@ -1,4 +1,4 @@
-## Binary Search Tree Workshop
+## Data Structures (Binary Search Tree Workshop) & (Linked Lists Guided Practice)
 
 Question #1:
 
